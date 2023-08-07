@@ -1,0 +1,16 @@
+body {
+  background-colour: black;
+  text-align: center;
+}
+button{
+  background-color: black;
+  color: white ;
+  padding: 10px 20px;
+  font-size: 30px;
+  border: 2px solid blue;
+  transition: 0.5s all;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
