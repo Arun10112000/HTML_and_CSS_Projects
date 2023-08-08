@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <h1> Games</h1>
+    <h2>Outdoor Games</h2>
+    <ul>
+        <li>Cricket</li>
+        <li>Tennis</li>
+        <li>Foot Ball</li>
+    </ul>
+    <h2>Online Games</h2>
+    <ol>
+        <li>Free Fire</li>
+        <li>Pubg</li>
+        <li>Candy Clash</li>
+    </ol>
+</body>
+</html>
