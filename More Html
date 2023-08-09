@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <img src="Images/html5-logo-31827.png " alt="html image">
+   
+<p>My favorite Website is <a href="https://www.reddit.com">Reddit</a> </p>
+<ul>
+    
+    <li> <a href="https://www.github.com">Github</a> </li>
+    <li> <a href="Arun.html">Contact</a> </li>
+    <li><a href="#vijay"> Thalapathy Vijay</a></li>
+    
+    
+</ul>
+<h2> Chicken biriyani</h2>
+<p>Biryani is a mixed rice dish originating among the Muslims of South Asia.</p>
+<h2 id="vijay"> Thalapathy Vijay</h2>
+<p>Vijay was born as Joseph Vijay Chandrasekhar on 22 June 1974 in Madras (now Chennai), Tamil Nadu..</p>
+</body>
+</html>
