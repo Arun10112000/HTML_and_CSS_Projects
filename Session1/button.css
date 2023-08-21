@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 30px;
+    border:1px solid white;
+    transition: 0.5s all;
+    border-radius: 10px;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
