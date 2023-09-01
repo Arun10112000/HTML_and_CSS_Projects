@@ -1,0 +1,102 @@
+body{
+    font-family: sans-serif;
+    line-height: 1.2;
+    font-size: 14px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    margin: 20px 150px 20px 150px;
+    
+}
+
+#h1{
+    font-size: 50px;
+    text-align: left;
+    background-color: aqua;
+    
+}
+h2{
+    background-color: rgb(211, 136, 45);
+    
+    
+}
+p{
+    color: green;
+}
+.p2{
+    color: rgb(54, 54, 179);
+    font-style: italic;
+}
+.a1{
+    text-decoration: none;
+    
+}
+.a2{
+    margin-left: 20px;
+    text-decoration: none;
+    
+}
+.a3{
+    margin-left: 350px;
+    text-decoration: none;
+    
+}
+.a4{
+    margin-left: 20px;
+    text-decoration: none;
+    
+}
+.a5{
+    margin-left: 20px;
+    text-decoration: none;
+    
+}
+.span1{
+    margin-left: 10px;
+}
+.span2{
+    margin-right: 80px;
+}
+.a1:hover{
+    color: brown;
+    text-decoration: underline black 2px;
+}
+.a2:hover{
+    color: brown;
+    text-decoration: underline black 2px;
+}
+.a3:hover{
+    color: brown;
+    text-decoration: underline black 2px;
+}
+.a4:hover{
+    color: brown;
+    text-decoration: underline black 2px;
+}
+.a5:hover{
+    color: brown; 
+    text-decoration: underline black 2px;
+    
+}
+.ul{
+    color: rgb(107, 43, 43);
+    font-weight: bold;
+}
+.span{
+    color: rgb(52, 8, 94);
+}
+.span3{
+    color: rgb(155, 7, 32);
+    background-color: rgb(244, 94, 119);
+}
+.span4{
+    background-color: aquamarine;
+}
+.span5{
+    background-color: blanchedalmond;
+}
+.span6{
+    color: rgb(29, 143, 105);
+}
+h4{
+    color: rgb(229, 152, 36);
+}
