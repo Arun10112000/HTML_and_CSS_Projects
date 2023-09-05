@@ -1,0 +1,27 @@
+h1,h2,h3{
+    color: rgb(133, 5, 69);
+    text-decoration: underline rgb(133, 5, 69);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    color: hotpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#list > li{
+    color: darkslateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    list-style-type:"\1F44D";
+   
+}
+.a1{
+    color: red;
+}
+.a1:hover{
+    color:black;
+    text-decoration-style:dotted ;
+
+}
+b{
+    text-decoration: underline gray;
+}
