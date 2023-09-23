@@ -1,0 +1,8 @@
+p {
+  border: 1px solid black;
+  background-color: magenta;
+  margin: 30px;
+  font-size: 2rem;
+  position: static;
+  left: 23px;
+}

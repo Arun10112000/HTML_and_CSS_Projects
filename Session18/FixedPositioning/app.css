@@ -1,0 +1,11 @@
+span {
+  font-size: 2rem;
+  display: block;
+  width: 100%;
+  padding: 30px;
+  background-color: orchid;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
