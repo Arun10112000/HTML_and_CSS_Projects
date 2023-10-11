@@ -26,12 +26,10 @@ body{
     transform: translateX(-100%);
     transition: transform 0.5s ease;
     z-index: -1;
-
 }
 .btn:hover{
     color: white;
 }
 .btn:hover::before{
     transform: translateX(0);
-
 }
