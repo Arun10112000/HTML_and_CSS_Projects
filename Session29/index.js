@@ -6,6 +6,7 @@ const mobileNav = document.querySelector(".mobileNav");
 
 
 hamburger.addEventListener("click", () => {
+  
   bar1.classList.toggle("animateBar1");
   bar2.classList.toggle("animateBar2");
   bar3.classList.toggle("animateBar3");
